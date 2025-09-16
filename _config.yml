@@ -13,16 +13,16 @@ title                    : "Pedro Veiga Salgado"
 title_separator          : "-"
 name                     : &name "Pedro Veiga Salgado"
 description              : &description "PhD Researcher in Economics | European University Institute"
-url                      : https://academicpages.github.io
+url                      : https://pedrosalgado.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pedrosalgado/pedrosalgado.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepic_PVS.jpg"
   name             : "Pedro Veiga Salgado"
   pronouns         : # example: "she/her"  
   bio              : "PhD researcher in Economics"
