@@ -1,0 +1,20 @@
+/* simple-nav: always-show links (desktop + mobile) */
+.simple-nav .visible-links {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.simple-nav .visible-links .masthead__menu-item--lg {
+  margin-right: auto; /* keeps site title left and links to the right */
+}
+
+.simple-nav .visible-links a {
+  padding: 0.25rem 0.6rem;
+  text-decoration: none;
+  color: inherit;
+  font-weight: 400;
+}
