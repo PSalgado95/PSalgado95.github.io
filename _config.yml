@@ -89,11 +89,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "oNXQTMWAHtHVDSDXJkwlZxbnw2FqkBHSZf2u_x7ONUU"
+google_site_verification : "vk5g1ZOE091J-eX1s5HJoSvm2ww6hDUfvkOu3p7rO7A"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
 # Social Sharing
 twitter:
   username               : &twitter PvSalgado12
