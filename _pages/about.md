@@ -13,6 +13,8 @@ Ciao! I am a PhD researcher in Economics at the European University Institute in
 
 Before starting my PhD, I earned a Master’s degree in Economics from the University of Copenhagen :denmark: and a Bachelor’s degree in Economics from the University of São Paulo :brazil:
 
+I’m always happy to chat about research! Please don’t hesitate to get in touch.
+
 ## News
 
 - I’ll be presenting my paper *“Monetary Policy and Unhedged Interest-Rate Exposures”* at the [Graduate Workshop on Heterogeneous Agent Macroeconomics](files/Program_HANK_PhD_Workshop.pdf)
