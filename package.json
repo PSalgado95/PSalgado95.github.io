@@ -1,27 +1,15 @@
 {
-  "name": "academic-pages",
-  "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
-  },
+  "name": "pedro-salgado-website",
+  "version": "1.0.0",
+  "description": "Source for Pedro Veiga Salgado's academic website.",
+  "private": true,
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
-  ],
-  "contributors": [
-    "Michael Rose",
-    "Robert Zupko"
+    "academic-website"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
-  },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 18"
   },
   "dependencies": {
     "fitvids": "^2.1.1",
